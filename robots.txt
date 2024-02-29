@@ -1,1 +1,6 @@
+User-agent:*
 
+Disallow: /kontakti
+Crawl-delay: 5
+Sitemap: https://sunny-hamster-569329.netlify.app/sitemap.xml
+Host: https://sunny-hamster-569329.netlify.app
