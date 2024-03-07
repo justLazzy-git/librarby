@@ -26,5 +26,5 @@ Allow: /plugins/*.png
 Allow: /plugins/*.jpg
 Allow: /plugins/*.gif
 
-Sitemap: https://sunny-hamster-569329.netlify.app/sitemap.xml
-Host: https://sunny-hamster-569329.netlify.app
+Sitemap: https://justsite.netlify.app/sitemap.xml
+Host: https://justsite.netlify.app
